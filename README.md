@@ -1,5 +1,5 @@
 # Facebook profile photo
-Facebook profile photo - get the picture of the Facebook profile by ID.
+Facebook profile photo: get the picture of the Facebook profile by ID.
 
 PIL library is required.
 
