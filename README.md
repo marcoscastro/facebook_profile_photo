@@ -9,7 +9,7 @@ Developed and tested with Python 3.
 
 The user enters the Facebook ID and displays the profile picture. See the image:
 
-<p align="center">![Software image](http://url/to/img.png)</p>
+<p align="center"><img src="http://url/to/img.png" /></p>
 
 Find your Facebook ID: http://findmyfbid.com/
 
