@@ -11,6 +11,6 @@ The user enters the Facebook ID and displays the profile picture. See the image:
 
 <p align="center">![Software image](http://url/to/img.png)</p>
 
-Find your Facebook ID: (http://findmyfbid.com/)
+Find your Facebook ID: http://findmyfbid.com/
 
 Contact: mcastrosouza@live.com
