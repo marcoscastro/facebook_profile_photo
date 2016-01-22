@@ -9,4 +9,4 @@ Developed and tested with Python 3.
 
 The user enters the Facebook ID and displays the profile picture. See the image:
 
-![Software image](http://url/to/img.png)
+<p align="center">![Software image](http://url/to/img.png)</p>
